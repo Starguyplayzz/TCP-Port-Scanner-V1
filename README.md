@@ -35,7 +35,7 @@ cd TCP-Port-Scanner
 g++ -std=c++17 -o scanner port_scanner.cpp -lpthread
 
 # Run
-./scanner
+./port_scanner
 ```
 
 You'll be prompted to enter:
