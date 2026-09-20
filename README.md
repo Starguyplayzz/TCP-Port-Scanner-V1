@@ -97,7 +97,7 @@ Each thread calls `checkPort(port)` with a single port number:
 
 ```
 TCP-Port-Scanner/
-├── port_scanner.cpp    # Full source code (heavily commented)
+├── port_scanner.cpp    # Full source code (heavily commented to understand each code block)
 └── README.md
 ```
 
@@ -139,12 +139,6 @@ Only scan systems you **own** or have **explicit written permission** to test.
 Unauthorized port scanning may be **illegal** in your country.  
 The author is not responsible for any misuse of this tool.
 
----
-
-## 👤 Author
-
-**Rudra** — Computer Science Student | Cybersecurity Enthusiast  
-2nd Semester Project · Built and tested on Linux (Kali)
 
 ---
 
